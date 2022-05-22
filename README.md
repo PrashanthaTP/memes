@@ -1,6 +1,6 @@
 # Memes
 
-##Vim and Emacs
+## Vim and Emacs
 
 ![meme_emacs_control_key_v1](https://user-images.githubusercontent.com/52926365/169701239-5911a3b8-255d-4282-b916-3099d89e7972.jpg)
 
@@ -8,6 +8,6 @@
 
 ![meme_vim_over_emacs_v1](https://user-images.githubusercontent.com/52926365/169701251-d623fda0-c384-4b27-9345-8920799b3070.jpg)
 
-
+![meme_noobie_vs_legends](https://user-images.githubusercontent.com/52926365/169701858-5b0663b3-628e-4bee-9220-69904c5dfbe4.jpg)
 
 
