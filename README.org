@@ -1,0 +1,14 @@
+#+TITLE: Memes
+
+** Vim and Emacs
+
+-  [[./images/meme_emacs_control_key_v1.jpg]]
+  
+  
+- [[./images/meme_emacs_learning_curve.jpg]]
+
+- [[./images/meme_vim_over_emacs_v1.jpg]]
+  
+    
+
+
