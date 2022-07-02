@@ -1,7 +1,5 @@
 # Memes
 
-## Vim and Emacs
-
 ![meme_emacs_control_key_v1](https://user-images.githubusercontent.com/52926365/169701239-5911a3b8-255d-4282-b916-3099d89e7972.jpg)
 
 ![meme_emacs_learning_curve](https://user-images.githubusercontent.com/52926365/169701247-5651b67e-e7bc-45b3-b973-bc94ac6644cf.jpg)
@@ -10,4 +8,4 @@
 
 ![meme_noobie_vs_legends](https://user-images.githubusercontent.com/52926365/169701858-5b0663b3-628e-4bee-9220-69904c5dfbe4.jpg)
 
-
+![meme_c_gcc_clang_compiler](https://user-images.githubusercontent.com/52926365/177008262-31dd909e-b9d0-44e6-aeef-80a4c6486cac.png)
