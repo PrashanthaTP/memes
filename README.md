@@ -9,3 +9,5 @@
 ![meme_noobie_vs_legends](https://user-images.githubusercontent.com/52926365/169701858-5b0663b3-628e-4bee-9220-69904c5dfbe4.jpg)
 
 ![meme_c_gcc_clang_compiler](https://user-images.githubusercontent.com/52926365/177008262-31dd909e-b9d0-44e6-aeef-80a4c6486cac.png)
+
+![meme_coding_stackoverflow_1](https://user-images.githubusercontent.com/52926365/184497597-06552a32-a13a-44b4-90af-b69b7b04de77.png)
