@@ -11,3 +11,6 @@
 ![meme_c_gcc_clang_compiler](https://user-images.githubusercontent.com/52926365/177008262-31dd909e-b9d0-44e6-aeef-80a4c6486cac.png)
 
 ![meme_coding_stackoverflow_1](https://user-images.githubusercontent.com/52926365/184497597-06552a32-a13a-44b4-90af-b69b7b04de77.png)
+
+![meme_onelinerFrom_academicPaper](https://github.com/PrashanthaTP/memes/assets/52926365/3c113463-0468-4431-806a-85439863c3a3)
+
